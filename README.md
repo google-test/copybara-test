@@ -1,2 +1,1 @@
-# This is really just boring test data
-# Revision 9 
+# This is just test data
