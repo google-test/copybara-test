@@ -1,1 +1,1 @@
-b.txt is a test file for copybara :) 
+b.txt is a test file for copybara.
