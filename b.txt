@@ -1,1 +1,3 @@
 this is b.txt
+
+adding a change to b.txt

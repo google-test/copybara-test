@@ -1,1 +1,3 @@
-this is c.txt
+this is c.txt.
+
+adding a change to c.txt
