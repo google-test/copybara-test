@@ -1,1 +1,3 @@
-A test file
+A test file.
+
+This test file is needed to add squash merge to copybara.
