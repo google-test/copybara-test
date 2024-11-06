@@ -1,1 +1,2 @@
-making a new file in my PR
+making a new file in my PR.
+This file is being used to test squash merge in copybara.
