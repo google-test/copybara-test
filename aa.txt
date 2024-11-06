@@ -1,2 +1,6 @@
 making a new file in my PR.
 This file is being used to test squash merge in copybara.
+
+Attempting to write squash merge to github
+
+Commit#2 Feature2
