@@ -3,3 +3,4 @@ A test file.
 This test file is needed to add squash merge to copybara.
 
 Commit#1 Feature2
+Commit#1 Feature3
