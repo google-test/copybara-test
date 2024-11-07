@@ -4,3 +4,4 @@ This file is being used to test squash merge in copybara.
 Attempting to write squash merge to github
 
 Commit#2 Feature2
+Commit#2 Feature3
