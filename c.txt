@@ -4,3 +4,5 @@ Monday5 Commit 1
 Monday5 Commit 2
 Monday6 Commit 1
 Monday6 Commit 2
+Tuesday1 Commit 1
+Tuesday2 Commit 2
