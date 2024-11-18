@@ -7,3 +7,6 @@ Commit#1 Feature3
 
 SquashUp
 SquashUp2
+
+integrateLabel
+integrateLabel2
