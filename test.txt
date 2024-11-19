@@ -12,3 +12,4 @@ integrateLabel
 integrateLabel2
 
 github.txt commit1
+github.txt commit2
