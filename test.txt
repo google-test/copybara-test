@@ -10,3 +10,5 @@ SquashUp2
 
 integrateLabel
 integrateLabel2
+
+squashMerge1
