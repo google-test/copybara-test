@@ -12,3 +12,4 @@ integrateLabel
 integrateLabel2
 
 squashMerge1
+squashMerge2
