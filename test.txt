@@ -17,3 +17,5 @@ squashMerge2
 integrate1
 integrate2
 integrate3
+
+integrate4
