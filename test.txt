@@ -21,3 +21,4 @@ integrate3
 integrate4
 integrate5
 integrate6
+integrate7
