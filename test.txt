@@ -22,4 +22,4 @@ integrate4
 integrate5
 integrate6
 integrate7
-intergrate8
+integrate8
