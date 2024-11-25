@@ -23,3 +23,6 @@ integrate5
 integrate6
 integrate7
 integrate8
+
+apple
+pear
