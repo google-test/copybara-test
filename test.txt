@@ -26,3 +26,6 @@ integrate8
 
 apple
 pear
+
+orange
+banana
